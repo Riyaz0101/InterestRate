@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InterestRates.Data/1.0.0": {
+        "runtime": {
+          "InterestRates.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterestRates.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

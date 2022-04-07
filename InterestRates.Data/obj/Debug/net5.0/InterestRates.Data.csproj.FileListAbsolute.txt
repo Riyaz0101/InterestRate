@@ -1,0 +1,12 @@
+C:\Riyaz\InterestRate\InterestRates.Data\bin\Debug\net5.0\InterestRates.Data.deps.json
+C:\Riyaz\InterestRate\InterestRates.Data\bin\Debug\net5.0\InterestRates.Data.dll
+C:\Riyaz\InterestRate\InterestRates.Data\bin\Debug\net5.0\ref\InterestRates.Data.dll
+C:\Riyaz\InterestRate\InterestRates.Data\bin\Debug\net5.0\InterestRates.Data.pdb
+C:\Riyaz\InterestRate\InterestRates.Data\obj\Debug\net5.0\InterestRates.Data.csproj.AssemblyReference.cache
+C:\Riyaz\InterestRate\InterestRates.Data\obj\Debug\net5.0\InterestRates.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Riyaz\InterestRate\InterestRates.Data\obj\Debug\net5.0\InterestRates.Data.AssemblyInfoInputs.cache
+C:\Riyaz\InterestRate\InterestRates.Data\obj\Debug\net5.0\InterestRates.Data.AssemblyInfo.cs
+C:\Riyaz\InterestRate\InterestRates.Data\obj\Debug\net5.0\InterestRates.Data.csproj.CoreCompileInputs.cache
+C:\Riyaz\InterestRate\InterestRates.Data\obj\Debug\net5.0\InterestRates.Data.dll
+C:\Riyaz\InterestRate\InterestRates.Data\obj\Debug\net5.0\ref\InterestRates.Data.dll
+C:\Riyaz\InterestRate\InterestRates.Data\obj\Debug\net5.0\InterestRates.Data.pdb
